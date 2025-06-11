@@ -19,7 +19,7 @@ A real-time medicine reminder and tracking system developed for embedded platfor
 - Jumper wires
 - Breadboard / PCB (optional)
 - Power Supply (USB or 5V regulated)
-- LEDs/Buzzer
+- LEDs/Buzzer (optional)
 
   ## 📐 Pin Connections
 
@@ -68,7 +68,7 @@ Press # to start entry mode.
     medicineName
 
 
-    Buzzer/LED starts working.
+    Buzzer/LED starts working. (optional)
 - Automatically resets timer for next medicine with remaining time for the respective medicine.
 
 ## 🔄 System States
@@ -93,6 +93,7 @@ State	Descriptions
 ## 🤝 Contributing
 - Pull requests are welcome! If you’d like to enhance UI, add EEPROM support, or support longer intervals—feel free to fork and improve.
 - Let me know if you'd like a version with embedded images, GIFs of the LCD interface, or a printable circuit diagram.
+- Any query, updations or further requests are also welcomed.
 
 ## 🧠 Credits
 
