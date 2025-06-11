@@ -1,4 +1,4 @@
-# 💊smartMedicine-Schedule-Tracker-and-alertSystem
+# 💊smart-MedicineScheduleTracker-and-alertSystem
 A real-time medicine reminder and tracking system developed for embedded platforms using a TM4C123 microcontroller. The system interfaces with a 4x4 keypad and I2C LCD, enabling users to input medicine schedules and receive timely alerts using LEDs/Buzzer.
 
 ## ✨ Features
@@ -93,3 +93,8 @@ State	Descriptions
 ## 🤝 Contributing
 - Pull requests are welcome! If you’d like to enhance UI, add EEPROM support, or support longer intervals—feel free to fork and improve.
 - Let me know if you'd like a version with embedded images, GIFs of the LCD interface, or a printable circuit diagram.
+
+## 🧠 Credits
+
+- [Code Composer Studio (CCS)](https://www.ti.com/tool/CCSTUDIO) – for debugging and development on TI microcontroller codes.
+- [Tiva C Series Community](https://e2e.ti.com/support/microcontrollers/arm-based-microcontrollers-group/arm-based-microcontrollers/f/arm-based-microcontrollers-forum) – for their support and open discussions on TM4C123GH6PM development.
